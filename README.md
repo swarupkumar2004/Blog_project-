@@ -50,18 +50,7 @@ venv\Scripts\activate    # Windows
 
 pip install -r requirements.txt
 
-✅ Step 4: Configure database (MySQL in settings.py)
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'your_db_name',
-        'USER': 'your_mysql_user',
-        'PASSWORD': 'your_password',
-        'HOST': 'localhost',
-        'PORT': '3306',
-    }
-}
+✅ Step 4: Configure database 
 
 ✅ Step 5: Run migrations
 
