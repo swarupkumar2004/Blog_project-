@@ -38,7 +38,7 @@ blog_project/
 
 ✅ Step 1: Clone the repository
 
-git clone https://github.com/your-username/blog-api.git
+git clone https://github.com/swarupkumar2004/blog-api.git
 cd blog-api
 
 ✅ Step 2: Create & activate virtual environment
